@@ -1,0 +1,9 @@
+title = "The Sims 3 Pets"
+description = "Electronic Arts presents The Sims 3 Pets for Nintendo 3DS! Create pets with minds of their own, choosing from more than 40 big and small dog breeds and more than 20 cat breeds. Customize your pets' unique looks then assign their distinctive personalities. Take control of them to see what kind of adventures unfold - in 3D! Your Sim's life is more fun with pets! Electronic Arts"
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000005A900"
+region = "eur"
+release_date = "2011-10-21"
